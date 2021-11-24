@@ -14,7 +14,7 @@ The purpose of this analysis is to use Tableau to perform bike trip analysis on 
 
 ## Results
 
-The following link is to Tableau NYC Citi Bike Story: [NYC Citi Bike](LINK GOES HERE "https://public.tableau.com/shared/FMK3872TD?:display_count=n&:origin=viz_share_link")
+The following link is to Tableau NYC Citi Bike Story: [NYC Citi Bike](https://public.tableau.com/shared/FMK3872TD?:display_count=n&:origin=viz_share_link)
 
  - The first chart reveals that the total number of bike trips on record is more than 2300k. This number is then broken down by gender. Riders identifying as 'Male' account for 2x as many as those identifying as 'Female'. 
  
