@@ -20,9 +20,9 @@ The following link is to Tableau NYC Citi Bike Story: [NYC Citi Bike](https://pu
  
 - Citi Bike breaks down user types into two categories: customer and subscriber. Customers have a 24-hour or 3-day pass while subscribers have an annual pass. The Subscribers account for the majority of users regardless of identifying as male or female. However, users of unknown gender leans towards being customers rather than subscribers. 
 
-<img src=resources/totaltrips.png height=400 width=400 float=left>
-<img src=resources/tripsbygender.png height=400 width=400 float=middle>
-<img src=resources/tripsbyusergender.png height=400 width=400 float=right>
+<img src=resources/totaltrips.png height=400 width=400 align=left>
+<img src=resources/tripsbygender.png height=400 width=400 align=middle>
+<img src=resources/tripsbyusergender.png height=400 width=400 align=right>
 
 - The most popular time for bike trips are 8am to 9am Monday through Friday, while 5pm to 7pm are popular times Monday through Friday. Rides on Saturday and Sunday popular times are spread throughout the days between the hours 9am to 8pm. There is a noticeable drop in the number of trips for Wednesday in the evening. This trend follows when popular ride times are split by gender.
 
@@ -31,10 +31,12 @@ The following link is to Tableau NYC Citi Bike Story: [NYC Citi Bike](https://pu
 
 - Overall the number of riders decreases as the trip duration increases as seen in the last image. 
 
-<img src=resources/popularrides.png height=300 width=400 float=left>
-<img src=resources/popularridesunknown.png height=300 width=400 float=middle> 
-<img src=resources/populardays.png height=300 width=300 float=right>
-<img src=resources/tripduration.png height=300 width=300 float=right> 
+<img src=resources/popularrides.png height=400 width=400 align=left>
+<img src=resources/popularridesunknown.png height=400 width=400 align=middle> 
+<img src=resources/tripduration.png height=400 width=400 align=right>
+<img src=resources/populardays.png height=400 width=400 align=right> 
+
+
 
 ## Summary
 Overall, the user types seem to differ on when they ride alluding to that there these different groups may depend on tourism. Tourists may fall under customers more than subscribers since it is reasonable to have a shorter pass if they're only visiting and will not benefit from a subscription. Also, customers, riders with 24-hour or 3-day passes, are more likely to ride on the weekend. Again, this alludes to being a visitor not a resident of NYC. Subscribers seem more likely to bike on Thursdays and will benefit more from a subscriber pass. 
